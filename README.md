@@ -6,7 +6,7 @@ Apresentar em um repositório as especificações do projeto a ser desenvolvido,
 ![Diagrama sem nome drawio](https://user-images.githubusercontent.com/69471715/230233137-6ae4d696-649f-4a81-9ba0-f21d61757fc9.png)
 
 # Arquitetura:
-![Coleta dos dados](https://user-images.githubusercontent.com/69471715/230233599-92bb5919-4e47-40cd-9993-d5b11f3c93e7.png)
+![arquitetura](https://user-images.githubusercontent.com/69471715/230235372-680cedd2-f3a3-453b-adc2-e58db59b2785.png)
 
 # Problema abordado:
 Avaliar o comportamento e características de um time da Serie B que sobe para a serie A para tentar criar um modelo que preveja quais são os elementos necessários ou dominantes de um time que consegue o acesso.
