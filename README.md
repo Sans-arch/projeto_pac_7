@@ -1,6 +1,11 @@
 # Especificação do Projeto
 Apresentar em um repositório as especificações do projeto a ser desenvolvido, seguindo os itens escolhidos do playbook do portfólio. Será avaliado o problema abordado, a relevância desse problema e os artefatos (especificação) que representam a resolução do problema.
 
+
+# Pipeline da aplicação:
+![abc](https://user-images.githubusercontent.com/69471715/230230359-1ed7e746-72f1-491e-9ec2-4f93d235e567.png)
+
+
 # Problema abordado:
 Avaliar o comportamento e características de um time da Serie B que sobe para a serie A para tentar criar um modelo que preveja quais são os elementos necessários ou dominantes de um time que consegue o acesso.
 ![](https://cdn.discordapp.com/attachments/799780436589936710/1093248453443850311/image.png)
