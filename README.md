@@ -5,6 +5,10 @@ Apresentar em um repositório as especificações do projeto a ser desenvolvido,
 # Pipeline da aplicação:
 ![Diagrama sem nome drawio](https://user-images.githubusercontent.com/69471715/230233137-6ae4d696-649f-4a81-9ba0-f21d61757fc9.png)
 
+Pipeline atualizado:
+![Diagrama sem nome drawio (1)](https://github.com/Sans-arch/projeto_pac_7/assets/69471715/fa6abd2e-7571-4e5d-ae05-934d112a3d8d)
+
+
 # Arquitetura:
 ![arquitetura](https://user-images.githubusercontent.com/69471715/230235372-680cedd2-f3a3-453b-adc2-e58db59b2785.png)
 
