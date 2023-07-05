@@ -1,19 +1,15 @@
 # Especificação do Projeto
 Apresentar em um repositório as especificações do projeto a ser desenvolvido, seguindo os itens escolhidos do playbook do portfólio. Será avaliado o problema abordado, a relevância desse problema e os artefatos (especificação) que representam a resolução do problema.
 
-
 # Pipeline da aplicação:
-![Diagrama sem nome drawio](https://user-images.githubusercontent.com/69471715/230233137-6ae4d696-649f-4a81-9ba0-f21d61757fc9.png)
-
-Pipeline atualizado:
-![Diagrama sem nome drawio (1)](https://github.com/Sans-arch/projeto_pac_7/assets/69471715/fa6abd2e-7571-4e5d-ae05-934d112a3d8d)
-
+![Pipeline](https://github.com/Sans-arch/projeto_pac_7/assets/69471715/0f9af85d-a089-4742-9030-6b58c3caa820)
 
 # Arquitetura:
-![arquitetura](https://user-images.githubusercontent.com/69471715/230235372-680cedd2-f3a3-453b-adc2-e58db59b2785.png)
+![Arquitetura](https://user-images.githubusercontent.com/69471715/230235372-680cedd2-f3a3-453b-adc2-e58db59b2785.png)
 
 # Problema abordado:
-Avaliar o comportamento e características de um time da Serie B que sobe para a serie A para tentar criar um modelo que preveja quais são os elementos necessários ou dominantes de um time que consegue o acesso.
+Avaliar a quantidade de pontos atingida por cada time numa liga específica conforme uma quantidade de temporadas, isto é, simular com base em 10 temporadas e verificar como seria a tabela de classificação desses times. Para exemplificar, foi utilizado datasets da Série A do Brasileirão.
+
 ![](https://cdn.discordapp.com/attachments/799780436589936710/1093248453443850311/image.png)
 
 # Relevância do problema
@@ -53,7 +49,6 @@ Sim
 - Dados processados para responder um objetivo.
 - Transfermarkt, Softscore (sites relacionados a estatísticas de futebol).
 - https://serpapi.com/sports-results
-- Trabalhar com modelo de classificação e predição.
 - Possibilidades de transferência, de mercado
 - Montar dataset
 - Montar conjunto de dados (feature)
