@@ -50,5 +50,20 @@ Sim, a cada sprint o projeto foi melhorado/alterado.
 - Foi feito um pré-processamento e pós-processamento nos datasets.
 - Transfermarkt, Softscore (sites relacionados a estatísticas de futebol).
 
+# Processo de desenvolvimento:
+Para a obtenção do resultado esperado (tabela do campeonato brasileiro com as devidas escalações) foi utilizado a Distribuição de Poisson,
+graças a ela foi possível estimar as posições que os times se encontrariam ao passar das temporadas.
+Para a plottagem dos gráficos foi utilizado a biblioteca matplotlib, para trabalhar com os datasets foi utilizada a biblioteca **pandas**,
+para trabalhar com numeros e dados matemáticos foi utilizada a biblioteca **numpy**, e por ultimo, para trabalharmos com a distribuição de Poisson
+foi utilizada a biblioteca **scipy**.
+
+Após a obtenção da tabela com as escalações dos times, foram realizadas diversas plottagens com dados que são interessantes para a exploração dos dados obtidos, entre eles temos:
+-  Gráfico relacionado aos pontos conquistados dos 10 primeiros colocados.
+- Gráfico da média de pontos dos 10 primeiros colocados.
+- Gráfico da média de pontos dos 4 ultimos colocados.
+
+Além dos gráficos em si, foi feita uma verificação de quais times iriam se classificar para a competição CONMEBOL Libertadores da América e para a competição CONMEBOL Copa Sul-americana.
+
+
 # Escopo do projeto e a escolha dos artefatos a serem desenvolvidos:
 - Utilização da distribuição de Poisson para prever o desempenho dos times de futebol conforme o passar das temporadas.
