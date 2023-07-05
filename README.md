@@ -10,8 +10,6 @@ Apresentar em um repositório as especificações do projeto a ser desenvolvido,
 # Problema abordado:
 Avaliar a quantidade de pontos atingida por cada time numa liga específica conforme uma quantidade de temporadas, isto é, simular com base em 10 temporadas e verificar como seria a tabela de classificação desses times. Para exemplificar, foi utilizado datasets da Série A do Brasileirão.
 
-![](https://cdn.discordapp.com/attachments/799780436589936710/1093248453443850311/image.png)
-
 # Relevância do problema
 - O projeto resolve algum problema real?
 Sim, é interessante para um analista esportivo ou para qualquer um que goste das estatisticas esportivas saber quais são os parâmetros ou características de um time competitivo que consegue subir de divisão, com base nesssa características será possível traçar uma ideia ou desenvolver um planejamento/estrategia para a temporada do time.
