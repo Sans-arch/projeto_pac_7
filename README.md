@@ -8,7 +8,7 @@ Apresentar em um repositório as especificações do projeto a ser desenvolvido,
 ![Arquitetura](https://user-images.githubusercontent.com/69471715/230235372-680cedd2-f3a3-453b-adc2-e58db59b2785.png)
 
 # Problema abordado:
-Avaliar a quantidade de pontos atingida por cada time numa liga específica conforme uma quantidade de temporadas, isto é, simular com base em 10 temporadas e verificar como seria a tabela de classificação desses times. Para exemplificar, foi utilizado datasets da Série A do Brasileirão.
+Avaliar a quantidade de pontos atingida por cada time numa liga específica conforme uma quantidade de temporadas, isto é, simular com base em um determinado numero de temporadas e verificar como seria a tabela de classificação desses times. Para exemplificar, foram utilizados datasets da Série A do Brasileirão (Campeonato Brasileiro de Futebol).
 
 # Relevância do problema
 - O projeto resolve algum problema real?
@@ -24,7 +24,7 @@ Acredito sim, quanto mais características e aspectos das bases de dados forem u
 Sim, principalmente os conceitos que estamos aprendendo nas disciplinas do 7° semestre, Ciência de Dados e Aprendizado de Máquina. Além de utilizar conteúdos de probabilibade estatística do semestre anterior.
 
 - O projeto demandou esforço consistente para sua solução?
-Sim
+Sim, a cada sprint o projeto foi melhorado/alterado.
 
 # Critérios escolhidos (70%) do playbook do portfólio:
 - Relevância do Projeto e Complexidade do Projeto: 10%
@@ -44,12 +44,11 @@ Sim
 - Aprendizado de máquina
 
 # Dados:
-- Dados processados para responder um objetivo.
+- Dados puros obtidos de diversas fontes esportivas.
+- Foi realizado o processamento dos dados para transforma-los em planilhas .csv.
+- Foram obtidos datasets das planilhas.
+- Foi feito um pré-processamento e pós-processamento nos datasets.
 - Transfermarkt, Softscore (sites relacionados a estatísticas de futebol).
-- https://serpapi.com/sports-results
-- Possibilidades de transferência, de mercado
-- Montar dataset
-- Montar conjunto de dados (feature)
 
 # Escopo do projeto e a escolha dos artefatos a serem desenvolvidos:
-- Modelo Preditivo de comportamento e características de um time da Serie B que sobe para a serie A.
+- Utilização da distribuição de Poisson para prever o desempenho dos times de futebol conforme o passar das temporadas.
