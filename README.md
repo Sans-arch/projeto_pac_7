@@ -57,8 +57,17 @@ Para a plottagem dos gráficos foi utilizado a biblioteca matplotlib, para traba
 para trabalhar com numeros e dados matemáticos foi utilizada a biblioteca **numpy**, e por ultimo, para trabalharmos com a distribuição de Poisson
 foi utilizada a biblioteca **scipy**.
 
+# Tecnologias utilizadas:
+- Python
+- Bibliotecas utilizadas:
+  - Numpy
+  - Matplotlib
+  - Scipy
+  - Pandas
+- Google Colab (execução do algoritmo)
+
 Após a obtenção da tabela com as escalações dos times, foram realizadas diversas plottagens com dados que são interessantes para a exploração dos dados obtidos, entre eles temos:
--  Gráfico relacionado aos pontos conquistados dos 10 primeiros colocados.
+- Gráfico relacionado aos pontos conquistados dos 10 primeiros colocados.
 - Gráfico da média de pontos dos 10 primeiros colocados.
 - Gráfico da média de pontos dos 4 ultimos colocados.
 
